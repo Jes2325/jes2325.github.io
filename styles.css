@@ -2,7 +2,7 @@
   background-color: black;
 }
   
-.images{
+img {
   display: flex;
   justify-content: center;
 }
