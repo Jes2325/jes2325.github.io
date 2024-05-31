@@ -3,12 +3,8 @@
 }
   
 .images{
-  padding: 0;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 20px;
-  text-align: center;
-  vertical-align: middle;
+  display: flex;
+  justify-content: center;
 }
 
 /* Footer */
