@@ -2,9 +2,8 @@
   background-color: black;
 }
 
-a {
+.images {
     box-sizing: border-box;
-    padding: 5px;
     align-items: center;
   }
   
