@@ -1,11 +1,6 @@
-.bottom-things{
-  background-color: black;
-}
-
-* {
-    box-sizing: border-box;
-  }
 a {
+    background-color: black;
+    box-sizing: border-box;
     float: left;
     width: 33.33%;
     padding: 5px;
@@ -14,7 +9,7 @@ a {
 
 /* Footer */
 footer {
-	background-color: #222;
+	background-color: black;
 	color: white;
 	text-align: center;
 	padding: 20px 0;
