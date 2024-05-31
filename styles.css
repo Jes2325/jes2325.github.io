@@ -1,9 +1,9 @@
 .bottom-things {
   background-color: black;
+  align-items: center;
 }
 
 .images {
-  align: center;
   padding: 1px;
 }
 
