@@ -4,6 +4,7 @@ a {
     float: left;
     width: 33.33%;
     padding: 5px;
+    align-items: center;
   }
   
 
@@ -12,6 +13,6 @@ footer {
 	background-color: black;
 	color: white;
 	text-align: center;
-	padding: 20px 0;
+  align-items: center;
 }
 
