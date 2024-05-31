@@ -1,13 +1,11 @@
 .bottom-things {
   background-color: black;
 }
-
-.images {
-  padding: 1px;
-  align-items: center;
-}
-
   
+a {
+  align-items: center;
+  border: 1px;
+}
 
 /* Footer */
 footer {
