@@ -1,6 +1,9 @@
 .bottom-things {
   background-color: black;
-  display: flex;
+}
+
+.image-container {
+  display: inline-block;
 }
 
 .images {
