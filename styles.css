@@ -1,10 +1,8 @@
 .bottom-things {
   background-color: black;
-  text-align: center;
+  display: flex;
 }
-  
-.images {
-}
+
 
 /* Footer */
 footer {
