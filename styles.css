@@ -4,6 +4,11 @@ body {
 
 .about-heading {
   color: white;
+  float: left;
+}
+
+.my-pic {
+  float: right;
 }
 
 #tester-txt {
@@ -15,9 +20,6 @@ body {
   align: left;
 }
 
-.my-pic {
-  align: right;
-}
 
 
 #image-container{
