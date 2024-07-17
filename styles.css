@@ -1,10 +1,9 @@
 body {
   background-color: black;
-  text-decoration: white;
 }
 
-.bottom-things {
-  background-color: black;
+#tester-txt {
+  color: white;
 }
 
 
