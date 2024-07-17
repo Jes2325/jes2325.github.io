@@ -8,7 +8,9 @@ body {
 }
 
 .my-pic {
-  float: right;
+  float: right
+  max-width: 100%;
+  height: auto;
 }
 
 #tester-txt {
