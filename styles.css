@@ -6,8 +6,9 @@ body {
   color: white;
 }
 
-#about-me {
+.about-me {
   color: white;
+  text-align: left;
 }
 
 
