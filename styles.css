@@ -6,21 +6,18 @@ body {
   color: white;
 }
 
-.about-me {
+.about-me-txt {
   color: white;
-}
-
-p {
   text-align: left;
 }
 
-#my-pic {
+.my-pic {
   text-align: right;
 }
 
 
 #image-container{
-  text-align:center;
+  text-align: center;
  }
 
 
