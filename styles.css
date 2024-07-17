@@ -8,7 +8,11 @@ body {
 
 .about-me {
   color: white;
-  align: left;
+  text-align:left;
+}
+
+#my-pic {
+  text-align: right;
 }
 
 
