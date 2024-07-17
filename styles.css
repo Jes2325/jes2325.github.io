@@ -8,7 +8,10 @@ body {
 
 .about-me {
   color: white;
-  text-align:left;
+}
+
+p {
+  text-align: left;
 }
 
 #my-pic {
