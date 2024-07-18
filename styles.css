@@ -11,10 +11,12 @@ section {
 article {
   float: left;
   padding: 20px;
-  width: 70%;
+  width: 60%;
 }
 
 .about-heading {
+  padding-left: 20px;
+  width: 70%;
   color: white;
   float: left;
 }
