@@ -16,7 +16,6 @@ article {
 
 .about-heading {
   padding-left: 10px;
-  padding-right: 10px;
   width: 70%;
   color: white;
   float: left;
@@ -35,7 +34,9 @@ article {
 .about-me-txt {
   color: white;
   text-align: left;
-  padding: 20px;
+  padding: 10px;
+  padding-right: 10px;
+  width: 70%
 }
 
 
