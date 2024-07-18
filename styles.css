@@ -15,7 +15,8 @@ article {
 }
 
 .about-heading {
-  padding-left: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
   width: 70%;
   color: white;
   float: left;
