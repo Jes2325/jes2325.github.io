@@ -8,16 +8,12 @@ section {
   clear: both;
 }
 
-article {
-  float: left;
-  padding: 20px;
-  width: 60%;
-}
 
 .about-heading {
   padding-left: 10px;
   color: white;
   float: left;
+  font-family: "Copperplate", fantasy;
 }
 
 .my-pic {
@@ -42,11 +38,10 @@ article {
 
 #image-container{
   text-align: center;
- }
+}
 
 
 
-/* Footer */
 footer {
 	color: white;
 	text-align: center;
