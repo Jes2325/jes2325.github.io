@@ -9,11 +9,11 @@ section {
 }
 
 
-.about-heading {
+h3 {
   padding-left: 10px;
   color: white;
   float: left;
-  font-family: "Copperplate", fantasy;
+  font-weight: bold;
 }
 
 .my-pic {
