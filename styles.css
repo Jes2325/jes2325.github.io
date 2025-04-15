@@ -1,38 +1,87 @@
 body {
-  background-color: black;
+  background-color: #121212;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  color: white;
 }
 
 section {
-  content: "";
-  display: table;
-  clear: both;
+  padding: 20px;
+  overflow: hidden;
 }
-
 
 h3 {
-  padding-left: 10px;
-  color: white;
-  float: left;
-  font-weight: bold;
+  font-size: 24px;
+  color: #ffcc00;
+  border-bottom: 2px solid #444;
+  padding-bottom: 5px;
+  margin-bottom: 10px;
 }
 
-.my-pic {
-  float: right;
-  max-width: 70%;
-  height: auto;
+h4 {
+  color: #ffa500;
+  margin-top: 15px;
 }
 
-#tester-txt {
-  color: white;
+.about-me {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 20px;
+  background-color: #1e1e1e;
+}
+
+.text-content {
+  flex: 1;
+  min-width: 300px;
 }
 
 .about-me-txt {
-  color: white;
-  text-align: left;
   padding: 10px;
-  padding-right: 10px;
-  width: 50%
+  line-height: 1.6;
 }
+
+.my-pic {
+  flex: 0 0 250px;
+  max-width: 250px;
+  border-radius: 10px;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+a {
+  color: #00bfff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+#image-container {
+  text-align: center;
+  margin: 20px 0;
+}
+
+#image-container img {
+  margin: 0 5px;
+  transition: transform 0.3s ease;
+}
+
+#image-container img:hover {
+  transform: scale(1.1);
+}
+
+footer {
+  text-align: center;
+  padding: 10px;
+  border-top: 1px solid #333;
+  font-size: 14px;
+}
+
 
 
 
